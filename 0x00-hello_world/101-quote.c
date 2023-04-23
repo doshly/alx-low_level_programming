@@ -4,7 +4,7 @@
 /**
  * main - Entry point
  * description - A c program that prints a line to the standard error
- * Return 0 (success)
+ * Return: Always 0 (Sccess)
  */
 int main(void)
 {
