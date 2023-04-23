@@ -2,7 +2,8 @@
 #include <unistd.h>
 
 /**
- * main - A c program that prints a line to the standard error
+ * main - Entry point
+ * description - A c program that prints a line to the standard error
  * Return 0 (success)
  */
 int main(void)
