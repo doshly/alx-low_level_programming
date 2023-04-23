@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
  * main - 6-size.c
- * description - A c program that prints the various size of computer types
+ * description - A c program that prints the various size of 
+ * computer types
  * Return: Always 0 (Success)
  */
 int main(void)
