@@ -1,4 +1,4 @@
-#include<stdio>
+#include<stdio.h>
 /**
  *main - Entry point
  *Description: print all single digit number of 10 starting from 0
