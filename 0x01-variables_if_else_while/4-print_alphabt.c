@@ -1,5 +1,5 @@
-#include<stdio>
-/**
+#include<stdio.h>
+\**
  *main - Entry point
  *Description: print alphabet in lowercase expect q and e
  *Return: Always 0 (success)
