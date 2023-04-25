@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
- *main - Entry point
- *Description: print the alphabet in lowercase
- *Return: Always o (success)
+ * main - Entry point
+ * Description: print the alphabet in lowercase
+ * Return: Always o (success)
  */
 int main(void)
 {
@@ -11,7 +11,7 @@ int main(void)
 	while (n <= 122)
 	{
 		putchar(n);
-		n++,
+		n++;
 	}
 	putchar('\n');
 	return (0);
