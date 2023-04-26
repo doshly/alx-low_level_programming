@@ -13,16 +13,16 @@ for (j = 0; j < 100; j++)
 {
 if (i <= j)
 {
-Putchar((i / 10) + 48);
-Putchar((i % 10) + 48);
-Putchar(' ');
-Putchar((j % 10) + 48);
-Putchar((j / 10) + 48);
+putchar((i / 10) + 48);
+putchar((i % 10) + 48);
+putchar(' ');
+putchar((j % 10) + 48);
+putchar((j / 10) + 48);
 {
 if (i != 96 || j != 96)
 {
-Putchar(',');
-Putchar(' ');
+putchar(',');
+putchar(' ');
 }
 }
 }
