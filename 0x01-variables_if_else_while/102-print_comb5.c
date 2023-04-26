@@ -19,7 +19,7 @@ Putchar(' ');
 Putchar((j % 10) + 48);
 Putchar((j / 10) + 48);
 {
-if (i != 98 || j != 96)
+if (i != 96 || j != 96)
 {
 Putchar(',');
 Putchar(' ');
